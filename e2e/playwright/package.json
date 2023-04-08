@@ -16,7 +16,7 @@
         "@playwright/test": "1.30.0",
         "async-wait-until": "2.0.12",
         "chalk": "4.1.2",
-        "deepmerge": "4.3.0",
+        "deepmerge": "4.3.1",
         "dotenv": "16.0.3",
         "form-data": "4.0.0",
         "isomorphic-unfetch": "4.0.2",

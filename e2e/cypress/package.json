@@ -95,6 +95,6 @@
     "fix": "eslint --ext .js,.ts . --quiet --fix --cache"
   },
   "dependencies": {
-    "patch-package": "6.5.1"
+    "patch-package": "7.0.2"
   }
 }
